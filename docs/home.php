@@ -1,12 +1,12 @@
-<?php include 'phpScripts/head.php'?>
+<?php include 'phpScripts/universalScripts/head.php'?>
 
-<?php include 'phpScripts/header.php'?>
+<?php include 'phpScripts/universalScripts/header.php'?>
  
 
-<?php include 'phpScripts/homeScript.php'?>
+<?php include 'phpScripts/home/homeScript.php'?>
 
-<?php include 'phpScripts/subscribeScript.php'?>
+<?php include 'phpScripts/universalScripts/subscribeScript.php'?>
 
-<?php include 'phpScripts/instagram.php'?>
+<?php include 'phpScripts/universalScripts/instagram.php'?>
 
-<?php include 'phpScripts/footer.php' ?>
+<?php include 'phpScripts/universalScripts/footer.php' ?>

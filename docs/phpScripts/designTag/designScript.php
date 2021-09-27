@@ -23,7 +23,7 @@
     
 <?php   
 ob_start();
-include 'phpScripts/homeScript.php';
+include 'phpScripts/home/homeScript.php';
 ob_end_clean();
 
 

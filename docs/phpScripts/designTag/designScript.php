@@ -33,7 +33,7 @@ $arrSize = sizeOf($designCategoryTitleArr);
 for($i = 0; $i < $arrSize; ++$i){ ?> 
     <article class="card mb-4">
     <div class="card-img">
-        <a href ="<?php echo 'collection/' .str_replace(' ', '', $designCategoryTitleArr[$i]) .'.php'  ?>"> <img src="<?php echo 'images/'  .$designCategoryImageArr[$i] ?>"> </a> <br>
+        <a href ="<?php echo 'bookEmbed/' .str_replace(' ', '', $designCategoryTitleArr[$i]) .'.php'  ?>"> <img src="<?php echo 'images/'  .$designCategoryImageArr[$i] ?>"> </a> <br>
     </div>
     <div class="card-body">
         <p class="card-text">

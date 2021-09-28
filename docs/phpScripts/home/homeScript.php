@@ -61,7 +61,7 @@
 ?>
    <article class="card mb-4">
           <div class="card-img">
-              <a href ="<?php echo 'collection/' .str_replace(' ', '', $titleArr[$j]) .'.php'  ?>"> <img src="<?php echo 'images/'  .($row['image']) ?>"> </a> <br>
+              <a href ="<?php echo 'bookEmbed/' .str_replace(' ', '', $titleArr[$j]) .'.php'  ?>"> <img src="<?php echo 'images/'  .($row['image']) ?>"> </a> <br>
           </div>
           <div class="card-body">
               <p class="card-text">

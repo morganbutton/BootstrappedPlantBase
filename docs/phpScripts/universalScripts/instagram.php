@@ -9,7 +9,7 @@
         <div class="row no-gutters">
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/1.jpg" alt="" />
+              <img class="img-fluid" src="img/instagram/1.png" alt="" />
             </a>
           </div>
           <div class="col-3">

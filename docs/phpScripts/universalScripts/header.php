@@ -14,6 +14,7 @@
               <a class="dropdown-item" href="home.php">Home</a>
                 <a class="dropdown-item" href="designcategory.php">Design</a>
                 <a class="dropdown-item" href="inspirationcategory.php">Inspiration</a>
+                <a class="dropdown-item" href="searchPage.php">Search</a>
                 
                 
               </div>
@@ -40,9 +41,9 @@
               <a class="nav-link" href="page-contact.php">Contact</a>
             </li>
           </ul>
-          <form class="form-inline" role="search">
-            <input class="search js-search form-control form-control-rounded mr-sm-2" type="text" title="Enter search query here.." placeholder="Search.." aria-label="Search">
-          </form>
+    
+      
+
         </div>
       </div>
     </nav>

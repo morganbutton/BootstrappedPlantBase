@@ -11,10 +11,10 @@
             <li class="nav-item dropdown active">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Books</a>
               <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="home.php">Home</a>
-                <a class="dropdown-item" href="designcategory.php">Design</a>
-                <a class="dropdown-item" href="inspirationcategory.php">Inspiration</a>
-                <a class="dropdown-item" href="searchPage.php">Search</a>
+              <a class="dropdown-item" href="../home.php">Home</a>
+                <a class="dropdown-item" href="../designcategory.php">Design</a>
+                <a class="dropdown-item" href="../inspirationcategory.php">Inspiration</a>
+                <a class="dropdown-item" href="../searchPage.php">Search</a>
                 
                 
               </div>
@@ -35,10 +35,10 @@
         <div class="collapse navbar-collapse order-4 order-md-4" id="navbar-right">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="page-about.php">About</a>
+              <a class="nav-link" href="../page-about.php">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="page-contact.php">Contact</a>
+              <a class="nav-link" href="../page-contact.php">Contact</a>
             </li>
           </ul>
     

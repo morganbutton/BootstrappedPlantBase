@@ -1,6 +1,6 @@
 <div class="site-instagram">
     <div class="action">
-      <a class="btn btn-light" href="#">
+      <a class="btn btn-light" href="https://www.instagram.com/plant_base_books/">
         Follow us @ Instagram
       </a>
     </div>
@@ -9,22 +9,22 @@
         <div class="row no-gutters">
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/1.png" alt="" />
+              <img class="img-fluid" src="../img/instagram/1.png" alt="" />
             </a>
           </div>
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/2.jpg" alt="" />
+              <img class="img-fluid" src="../img/instagram/2.jpg" alt="" />
             </a>
           </div>
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/3.jpg" alt="" />
+              <img class="img-fluid" src="../img/instagram/3.jpg" alt="" />
             </a>
           </div>
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/4.jpg" alt="" />
+              <img class="img-fluid" src="../img/instagram/4.jpg" alt="" />
             </a>
           </div>
         </div>
@@ -33,22 +33,22 @@
         <div class="row no-gutters">
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/5.jpg" alt="" />
+              <img class="img-fluid" src="../img/instagram/5.jpg" alt="" />
             </a>
           </div>
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/6.jpg" alt="" />
+              <img class="img-fluid" src="../img/instagram/6.jpg" alt="" />
             </a>
           </div>
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/7.jpg" alt="" />
+              <img class="img-fluid" src="../img/instagram/7.jpg" alt="" />
             </a>
           </div>
           <div class="col-3">
             <a class="photo" href="#">
-              <img class="img-fluid" src="img/instagram/8.jpg" alt="" />
+              <img class="img-fluid" src="../img/instagram/8.jpg" alt="" />
             </a>
           </div>
         </div>
